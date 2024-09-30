@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"38c6ec2201da757c","type":"text","text":"# Corruption Meter\n\n- Minden használat után növekszik\n- Következményekkel jár\n- Dinamikus\n","x":-260,"y":300,"width":420,"height":240,"color":"#ae00ff"},
+		{"id":"f92b3d6299908bf9","type":"text","text":"# Gyengülés\n\n- Lassabb mozgás\n- Stamina gyengébb","x":-175,"y":690,"width":250,"height":190,"color":"#ffd500"},
+		{"id":"9aafed8a54675650","type":"text","text":"# Szédülés\n\n- Nehezítené a célzást","x":-580,"y":690,"width":250,"height":190,"color":"#ffd500"},
+		{"id":"c8f99fb198fa1254","type":"text","text":"# Hallucinációk\n\n- hangok\n- flashback\n- bizarr dolgok","x":240,"y":690,"width":290,"height":190,"color":"#ffd500"},
+		{"id":"16d7fe9eecc7967d","type":"text","text":"# Swap Ability\n\n- Tárgyak pozíciójának a felcserélése\n- Vizuális Effekt\n- Hang Effekt\n- Limitált távolság","x":-260,"y":0,"width":420,"height":240,"color":"#8100c2"}
+	],
+	"edges":[
+		{"id":"7ea6a64a2b5fda34","fromNode":"16d7fe9eecc7967d","fromSide":"bottom","toNode":"38c6ec2201da757c","toSide":"top","color":"#8100c2"},
+		{"id":"88cea0c391e6a4ba","fromNode":"38c6ec2201da757c","fromSide":"bottom","toNode":"c8f99fb198fa1254","toSide":"top","color":"#ae00ff"},
+		{"id":"86a3ce2a5457eddc","fromNode":"38c6ec2201da757c","fromSide":"bottom","toNode":"9aafed8a54675650","toSide":"top","color":"#ae00ff"},
+		{"id":"2c5667d239d228c4","fromNode":"38c6ec2201da757c","fromSide":"bottom","toNode":"f92b3d6299908bf9","toSide":"top","color":"#ae00ff"},
+		{"id":"9e96d8d55f9447f6","fromNode":"9aafed8a54675650","fromSide":"right","toNode":"f92b3d6299908bf9","toSide":"left","color":"#ffffff","label":"0-30%"},
+		{"id":"6072b9b871470904","fromNode":"f92b3d6299908bf9","fromSide":"right","toNode":"c8f99fb198fa1254","toSide":"left","color":"#ffffff","label":"50-80%"}
+	]
+}
