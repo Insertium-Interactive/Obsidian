@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOJOURN/WORLDBUILDING/Karakterek.md",
+                "file": "SOJOURN/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOJOURN/WORLDBUILDING/Karakterek.md",
+                "file": "SOJOURN/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOJOURN/WORLDBUILDING/Karakterek.md",
+                "file": "SOJOURN/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOJOURN/WORLDBUILDING/Karakterek.md"
+                "file": "SOJOURN/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "ed21549823f75445",
   "lastOpenFiles": [
+    "SOJOURN/WORLDBUILDING/Karakterek.md",
     "SOJOURN/SCRIPTS/Door.md",
     "SOJOURN/GAMEPLAY_MainStory/Cselekmény_Párbeszédek_Puzzles.md",
     "SOJOURN/GAMEPLAY_MainStory/Cselekmény.canvas",
     "SOJOURN/GAMEPLAY_MECHANIKÁK/Swap_Ability.canvas",
     "SOJOURN/WORLDBUILDING/Helyszínek.md",
-    "SOJOURN/WORLDBUILDING/Karakterek.md",
     "SOJOURN/WORLDBUILDING/Story.md",
     "KARAKTER BRAINSTORM/Emlyn.canvas",
     "KARAKTER BRAINSTORM/SABLON.canvas",
