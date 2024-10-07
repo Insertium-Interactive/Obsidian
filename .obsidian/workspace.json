@@ -1,19 +1,24 @@
 {
   "main": {
-    "id": "e2e629ab3210fd57",
+    "id": "cc046320f08a0801",
     "type": "split",
     "children": [
       {
-        "id": "3fd749e239fcd2d5",
+        "id": "95acf50f838a5240",
         "type": "tabs",
         "children": [
           {
-            "id": "b12341fc2f3c14f8",
+            "id": "ed21549823f75445",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "GAMEPLAY_MainStory/Cselekmény.canvas",
+                "viewState": {
+                  "x": 440,
+                  "y": -1680,
+                  "zoom": -1.430834841570189
+                }
               }
             }
           }
@@ -23,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1deaca3c4be49fb3",
+    "id": "a413f96bf7f3bd86",
     "type": "split",
     "children": [
       {
-        "id": "6f36ef9bc1759e7b",
+        "id": "59f5c4af49f24f13",
         "type": "tabs",
         "children": [
           {
-            "id": "2aff4d30fee67a6c",
+            "id": "4778091b8f5e8a57",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +46,7 @@
             }
           },
           {
-            "id": "8cfdca2648a012ce",
+            "id": "dedc6a63457a93f2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +61,7 @@
             }
           },
           {
-            "id": "a3c45b50983160ff",
+            "id": "5fd1896aa695cc7f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,22 +72,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 427.5
   },
   "right": {
-    "id": "0a0b2d8b499a3c2a",
+    "id": "79fe7c6fd4fa9545",
     "type": "split",
     "children": [
       {
-        "id": "772bd3d3981162fb",
+        "id": "3c20a9614e0fb4a2",
         "type": "tabs",
         "children": [
           {
-            "id": "fe51610825a9c3fe",
+            "id": "afa8c7a9beceba7f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GAMEPLAY_MainStory/Cselekmény.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,18 +100,19 @@
             }
           },
           {
-            "id": "3012905a9cfa8019",
+            "id": "edeb86dfaa4182ed",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GAMEPLAY_MainStory/Cselekmény.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ecee46ccd8b92543",
+            "id": "2c163c04b61dba21",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,14 +123,17 @@
             }
           },
           {
-            "id": "fc3e8c762a392222",
+            "id": "506e1bc0e43bff01",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GAMEPLAY_MainStory/Cselekmény.canvas"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,38 +150,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b12341fc2f3c14f8",
+  "active": "4778091b8f5e8a57",
   "lastOpenFiles": [
-    "SOJOURN/SOJOURN/GAMEPLAY_MainStory/Cselekmény_Párbeszédek_Puzzles.md",
-    "FŐMAPPA/WORLDBUILDING/Képek/Three Act Structure.png",
-    "FŐMAPPA/WORLDBUILDING/Képek",
-    "FŐMAPPA/WORLDBUILDING/Story.md",
-    "FŐMAPPA/WORLDBUILDING/Karakterek.md",
-    "FŐMAPPA/WORLDBUILDING/Helyszínek.md",
-    "FŐMAPPA/WORLDBUILDING",
-    "FŐMAPPA/SCRIPTS/Door.md",
-    "FŐMAPPA/SCRIPTS",
-    "FŐMAPPA/GAMEPLAY_MECHANIKÁK/Swap_Ability.canvas",
-    "FŐMAPPA/GAMEPLAY_MECHANIKÁK",
-    "FŐMAPPA/GAMEPLAY_MainStory/Cselekmény_Párbeszédek_Puzzles.md",
-    "FŐMAPPA/GAMEPLAY_MainStory/Cselekmény.canvas",
-    "FŐMAPPA/GAMEPLAY_MainStory",
-    "FŐMAPPA/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md",
-    "FŐMAPPA/GAMEPLAY_Demo/Cselekmény.canvas",
-    "FŐMAPPA/GAMEPLAY_Demo",
-    "FŐMAPPA",
-    "Új mappa",
-    "SOJOURN/WORLDBUILDING/Képek/Three Act Structure.png",
-    "SOJOURN/WORLDBUILDING/Story.md",
-    "SOJOURN/WORLDBUILDING/Képek",
+    "SOJOURN/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md",
     "SOJOURN/WORLDBUILDING/Karakterek.md",
-    "SOJOURN/WORLDBUILDING/Helyszínek.md",
-    "SOJOURN/WORLDBUILDING",
     "SOJOURN/SCRIPTS/Door.md",
     "SOJOURN/GAMEPLAY_MainStory/Cselekmény_Párbeszédek_Puzzles.md",
     "SOJOURN/GAMEPLAY_MainStory/Cselekmény.canvas",
     "SOJOURN/GAMEPLAY_MECHANIKÁK/Swap_Ability.canvas",
-    "SOJOURN/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md",
-    "SOJOURN/GAMEPLAY_Demo/Cselekmény.canvas"
+    "SOJOURN/WORLDBUILDING/Helyszínek.md",
+    "SOJOURN/WORLDBUILDING/Story.md",
+    "KARAKTER BRAINSTORM/Emlyn.canvas",
+    "KARAKTER BRAINSTORM/SABLON.canvas",
+    "SOJOURN/GAMEPLAY_Demo/Cselekmény.canvas",
+    "KARAKTER BRAINSTORM/JUNGIAN Archetípusok.png",
+    "Untitled.canvas",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/Koda.canvas",
+    "SOJOURN/GAMEPLAY_MECHANIKÁK",
+    "SOJOURN/GAMEPLAY_Demo",
+    "SOJOURN/WORLDBUILDING/Képek/Three Act Structure.png",
+    "ARIA HAYES.md",
+    "Aria Hayes.md",
+    "SOJOURN/GAMEPLAY_MainStory",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/Amber.canvas",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/Joshua.canvas",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/June.canvas",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/1.Felépítés.png",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/Amber.md",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/June.md",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/Joshua.md",
+    "KARAKTER BRAINSTORM/Enigma Infinitum/Koda.md",
+    "Untitled 2",
+    "Untitled 1",
+    "KARAKTER BRAINSTORM/Enigma Infinitum",
+    "KARAKTER BRAINSTORM/Untitled mindmap.md",
+    "KARAKTER BRAINSTORM/Emlyn/Infó.md",
+    "KARAKTER BRAINSTORM/Emlyn",
+    "KARAKTER BRAINSTORM",
+    "SOJOURN",
+    "WORLDBUILDING/Szöveg.md",
+    "SOJOURN/WORLDBUILDING/Képek",
+    "WORLDBUILDING/Mellékszál.md",
+    "Chapter 1.md",
+    "Pasted image 20240901183045.png",
+    "Használat.md"
   ]
 }

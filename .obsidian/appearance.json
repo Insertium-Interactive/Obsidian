@@ -1,1 +1,16 @@
-{}
+{
+  "cssTheme": "Abyssal",
+  "accentColor": "",
+  "theme": "system",
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "BGcolors",
+    "Colored Headings",
+    "Iterative Rainbow Folder Icons"
+  ],
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 14,
+  "baseFontSizeAction": false
+}
