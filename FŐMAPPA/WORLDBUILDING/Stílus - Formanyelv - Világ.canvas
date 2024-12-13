@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"0b4b24717a3aca9e","type":"text","text":"# Okkultizmus és Tudomány: Pszichotrónika","x":-176,"y":-23,"width":916,"height":103,"color":"#8c00ff"},
 		{"id":"743e62efd73f1265","type":"text","text":"## Kontroll vs Káosz: \n\n- A tudomány és az ezoterika fúziója végtelen lehetőségeket rejt, de új veszélyeket is teremt, ahogy az emberek egyre jobban az általuk alig értett gépekre támaszkodnak","x":-1020,"y":80,"width":594,"height":220,"color":"6"},
-		{"id":"83d758f41a9c916c","type":"link","url":"https://www.thespruce.com/top-architectural-styles-4802083","x":-1920,"y":-1320,"width":577,"height":537},
+		{"id":"83d758f41a9c916c","type":"link","url":"https://www.thespruce.com/top-architectural-styles-4802083","x":-2300,"y":-1320,"width":957,"height":537},
 		{"id":"222831858b33d649","type":"text","text":"### Elit Réteg\n- Art Deco\n- Art Noveau\n- Felsőbbrendűnek érzik magukat","x":-1920,"y":-755,"width":260,"height":380,"color":"6"},
 		{"id":"ca08e4125cb15b22","type":"text","text":"### Alsóbb Osztály\n- Ipari brutalizmus\n- Industrial Brutalism","x":-1623,"y":-755,"width":280,"height":380,"color":"6"},
 		{"id":"86c9d645705dd19f","type":"text","text":"## Emberi tudományos kiváncsiság: \n\n- Milyen szorosan tudja a társadalom irányítani azokat az okkult/ezoterikus erőket, amelyek előreláthatatlan következményekkel is bírhatnak?","x":920,"y":-81,"width":700,"height":220,"color":"6"},

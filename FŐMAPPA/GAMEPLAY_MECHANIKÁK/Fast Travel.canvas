@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"0ea38533b2992314","type":"group","x":-2400,"y":-440,"width":1800,"height":1760,"color":"#000000","label":"Alap Infók"},
+		{"id":"16d7fe9eecc7967d","type":"text","text":"# **Ötletek**","x":-1610,"y":340,"width":220,"height":98,"color":"#000000"},
+		{"id":"703de5e9e8e8f49c","type":"text","text":"# Hőlégballon","x":-1664,"y":-140,"width":328,"height":129,"color":"#a600ff"},
+		{"id":"216affa310c53b2a","type":"text","text":"# Hullámvasút","x":-2120,"y":120,"width":356,"height":110,"color":"#a600ff"},
+		{"id":"66940a2154681f5f","type":"text","text":"# Vízalatti vonatozás","x":-1180,"y":500,"width":280,"height":135,"color":"#a600ff"},
+		{"id":"a0c0458fd6c1c556","type":"text","text":"# Hajó/ Csónak","x":-1618,"y":820,"width":228,"height":126,"color":"#a610ff"}
+	],
+	"edges":[
+		{"id":"efc96a22c8c9478e","fromNode":"16d7fe9eecc7967d","fromSide":"left","toNode":"a0c0458fd6c1c556","toSide":"left","color":"#a600ff"},
+		{"id":"b278b93bb09f0495","fromNode":"16d7fe9eecc7967d","fromSide":"right","toNode":"703de5e9e8e8f49c","toSide":"right","color":"#a600ff"},
+		{"id":"02218480fc98ae2e","fromNode":"16d7fe9eecc7967d","fromSide":"top","toNode":"216affa310c53b2a","toSide":"right","color":"#a600ff"},
+		{"id":"1cfe84cb8a617f34","fromNode":"16d7fe9eecc7967d","fromSide":"bottom","toNode":"66940a2154681f5f","toSide":"left","color":"#a600ff"}
+	]
+}
