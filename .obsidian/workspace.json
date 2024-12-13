@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "GAMEPLAY_MainStory/Cselekmény.canvas",
+                "file": "FŐMAPPA/GAMEPLAY_MECHANIKÁK/Képességek.canvas",
                 "viewState": {
-                  "x": 440,
-                  "y": -1680,
-                  "zoom": -1.430834841570189
+                  "x": -10.473181056505808,
+                  "y": 2762.016116959027,
+                  "zoom": -1.3367067047515995
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GAMEPLAY_MainStory/Cselekmény.canvas",
+                "file": "FŐMAPPA/GAMEPLAY_MECHANIKÁK/Képességek.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GAMEPLAY_MainStory/Cselekmény.canvas",
+                "file": "FŐMAPPA/GAMEPLAY_MECHANIKÁK/Képességek.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GAMEPLAY_MainStory/Cselekmény.canvas"
+                "file": "FŐMAPPA/GAMEPLAY_MECHANIKÁK/Képességek.canvas"
               }
             }
           }
@@ -150,8 +150,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4778091b8f5e8a57",
+  "active": "ed21549823f75445",
   "lastOpenFiles": [
+    "FŐMAPPA/SCRIPTS/1. Képek/Pasted image 20241003121458.png",
+    "FŐMAPPA/SCRIPTS/1. Képek/Pasted image 20241001152838.png",
+    "FŐMAPPA/SCRIPTS/1. Képek/Pasted image 20241001152634.png",
+    "FŐMAPPA/SCRIPTS/1. Képek/Pasted image 20241001152121.png",
+    "FŐMAPPA/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md",
+    "FŐMAPPA/WORLDBUILDING/1. Képek/Three Act Structure.png",
+    "FŐMAPPA/WORLDBUILDING/1. Képek",
+    "FŐMAPPA/SCRIPTS/Interakció/Door.md",
+    "FŐMAPPA/SCRIPTS/Interakció",
+    "FŐMAPPA/SCRIPTS/Hangok/Footsteps Sound System.md",
+    "FŐMAPPA/SCRIPTS/Hangok",
+    "FŐMAPPA/SCRIPTS/Fizika/Pushable and PushableObject.md",
+    "FŐMAPPA/SCRIPTS/Fizika",
+    "FŐMAPPA/SCRIPTS/1. Képek",
+    "FŐMAPPA/GAMEPLAY_MECHANIKÁK/Képességek.canvas",
     "SOJOURN/GAMEPLAY_Demo/Cselekmény_Párbeszédek_Puzzles.md",
     "SOJOURN/WORLDBUILDING/Karakterek.md",
     "SOJOURN/SCRIPTS/Door.md",
@@ -174,7 +189,6 @@
     "SOJOURN/GAMEPLAY_MainStory",
     "KARAKTER BRAINSTORM/Enigma Infinitum/Amber.canvas",
     "KARAKTER BRAINSTORM/Enigma Infinitum/Joshua.canvas",
-    "KARAKTER BRAINSTORM/Enigma Infinitum/June.canvas",
     "KARAKTER BRAINSTORM/Enigma Infinitum/1.Felépítés.png",
     "KARAKTER BRAINSTORM/Enigma Infinitum/Amber.md",
     "KARAKTER BRAINSTORM/Enigma Infinitum/June.md",
@@ -182,14 +196,9 @@
     "KARAKTER BRAINSTORM/Enigma Infinitum/Koda.md",
     "Untitled 2",
     "Untitled 1",
-    "KARAKTER BRAINSTORM/Enigma Infinitum",
     "KARAKTER BRAINSTORM/Untitled mindmap.md",
     "KARAKTER BRAINSTORM/Emlyn/Infó.md",
-    "KARAKTER BRAINSTORM/Emlyn",
-    "KARAKTER BRAINSTORM",
-    "SOJOURN",
     "WORLDBUILDING/Szöveg.md",
-    "SOJOURN/WORLDBUILDING/Képek",
     "WORLDBUILDING/Mellékszál.md",
     "Chapter 1.md",
     "Pasted image 20240901183045.png",
