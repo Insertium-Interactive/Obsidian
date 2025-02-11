@@ -2,15 +2,15 @@
 	"nodes":[
 		{"id":"0b4b24717a3aca9e","type":"text","text":"# Okkultizmus és Tudomány: Pszichotrónika","x":-176,"y":-23,"width":916,"height":103,"color":"#8c00ff"},
 		{"id":"743e62efd73f1265","type":"text","text":"## Kontroll vs Káosz: \n\n- A tudomány és az ezoterika fúziója végtelen lehetőségeket rejt, de új veszélyeket is teremt, ahogy az emberek egyre jobban az általuk alig értett gépekre támaszkodnak","x":-1020,"y":80,"width":594,"height":220,"color":"6"},
-		{"id":"83d758f41a9c916c","type":"link","url":"https://www.thespruce.com/top-architectural-styles-4802083","x":-2300,"y":-1320,"width":957,"height":537},
-		{"id":"222831858b33d649","type":"text","text":"### Elit Réteg\n- Art Deco\n- Art Noveau\n- Felsőbbrendűnek érzik magukat","x":-1920,"y":-755,"width":260,"height":380,"color":"6"},
+		{"id":"83d758f41a9c916c","type":"link","url":"https://www.thespruce.com/top-architectural-styles-4802083","x":-2300,"y":-1440,"width":957,"height":657},
 		{"id":"ca08e4125cb15b22","type":"text","text":"### Alsóbb Osztály\n- Ipari brutalizmus\n- Industrial Brutalism","x":-1623,"y":-755,"width":280,"height":380,"color":"6"},
 		{"id":"86c9d645705dd19f","type":"text","text":"## Emberi tudományos kiváncsiság: \n\n- Milyen szorosan tudja a társadalom irányítani azokat az okkult/ezoterikus erőket, amelyek előreláthatatlan következményekkel is bírhatnak?","x":920,"y":-81,"width":700,"height":220,"color":"6"},
 		{"id":"feb38d98c1aa4bd6","type":"text","text":"### Incidens - Regenesis: \n\n- Katasztrófa\n- Incidens","x":-1620,"y":420,"width":240,"height":281,"color":"6"},
 		{"id":"b64b6b8e7ae5975b","type":"text","text":"### Lázzadók/? Faction\n- Elit réteg eszközei nélkül is tudnak ezotérikus energiákat használni\n- Titkosak\n- Elrejtőznek","x":-2300,"y":-755,"width":320,"height":380,"color":"6"},
 		{"id":"dca14150290eed0c","type":"text","text":"## Társadalmi osztályok megoszlása/Factions: \n\n- Az elit réteg az ezotérikus és okkult energiákat manipulálja a hatalomért, amiből gyakrabban születnek balesetek\n- Az alsóbb osztályok szenvedik el sokszor a következményeket, akár betegség, akár furcsa mutációk által","x":-1020,"y":-323,"width":594,"height":352,"color":"6"},
 		{"id":"b01ef46e1e24812d","type":"text","text":"### Embereken való kísérletek: \n\n- Totalitáriánus jelleg\n- Korrupt\n- Hatalomszomjas\n- Propaganda","x":2000,"y":-401,"width":460,"height":320,"color":"6"},
-		{"id":"cb56a7f7c6bdd576","type":"text","text":"### Ezotérikus eszközök: \n\n- Mindennapi cselekedetek \n- Telepatikus kommunikáció\n- Elon Musk Neuralink-hez hasonló eszköz ami megnyítja a chakra-idat vagy hasonló","x":2000,"y":139,"width":460,"height":320,"color":"6"}
+		{"id":"cb56a7f7c6bdd576","type":"text","text":"### Ezotérikus eszközök: \n\n- Mindennapi cselekedetek \n- Telepatikus kommunikáció\n- Elon Musk Neuralink-hez hasonló eszköz ami megnyítja a chakra-idat vagy hasonló","x":2000,"y":139,"width":460,"height":320,"color":"6"},
+		{"id":"222831858b33d649","type":"text","text":"### Elit Réteg\n- Art Deco\n- Art Noveau\n- Felsőbbrendűnek érzik magukat","x":-1940,"y":-755,"width":260,"height":380,"color":"6"}
 	],
 	"edges":[
 		{"id":"2ea2838c14c44ab3","fromNode":"0b4b24717a3aca9e","fromSide":"right","toNode":"86c9d645705dd19f","toSide":"left","color":"6"},
